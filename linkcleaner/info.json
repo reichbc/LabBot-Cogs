@@ -1,0 +1,15 @@
+{
+    "author": [
+        "Ramstik"
+    ],
+    "short": "Cleans Amazon and eBay link query strings",
+    "description": "Checks for Amazon or eBay links, identifies if a user tracking query string exists. If so, deletes the user's message, re-pastes the cleaned link, and quotes the user if any text is posted.",
+    "disabled": false,
+    "name": "linkcleaner",
+    "tags": [
+        "linkcleaner",
+        "mod"
+    ],
+    "install_msg": "Automatically runs.",
+    "min_bot_version": "3.5.1"
+}
