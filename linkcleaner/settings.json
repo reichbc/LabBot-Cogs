@@ -1,0 +1,7 @@
+{
+    "whitelist_domains": [
+        "amazon.com",
+        "ebay.com",
+        "wish.com"
+    ]
+}
